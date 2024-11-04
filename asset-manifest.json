@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/name-translator/static/css/main.4efb37a3.css",
+    "main.js": "/name-translator/static/js/main.4361f00d.js",
+    "static/js/206.8e2f94ca.chunk.js": "/name-translator/static/js/206.8e2f94ca.chunk.js",
+    "index.html": "/name-translator/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.4361f00d.js"
+  ]
+}
